@@ -114,3 +114,8 @@ performance metrics:
 perf_1 = U.time_in_top_k(df=df, K=1, sim_opts=simOpts)
 perf_2 = U.average_rank(df=df, sim_opts=simOpts)
 ```
+
+[CREDITS]
+Original Code Written by Utkarsh Upadhyay (MPI-SWS, KAISERSLAUTERN)
+available @: https://github.com/musically-ut
+Project Modifications done in team b (Md. Abdul Kadir (Uds), Hamza Anwar (UdS), Waleed Ahmed (Uds)) (Winter2018/19)
